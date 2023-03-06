@@ -21,7 +21,7 @@ function test() {
   console.log("notice the blank line before this function?");
 }
 ### Education
-**BELARUSIAN STATE UNIVERSITY OF INFORMATION SCIENCE AND RADIO ELECTRONICS**, information communications engineer
+**Belarusian State University of Information science and Radio Eelectronics**, _information communications engineer_
 ### Languages
 * Russian: Native
 * English: A2-A1
