@@ -25,3 +25,4 @@ function test() {
 ### Languages
 * Russian: Native
 * English: A2-A1
+#### Thank you for considering my application
