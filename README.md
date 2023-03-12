@@ -1,1 +1,1 @@
-https://H1K5ik.github.io/rsschool-cv/cv
+ttps://H1K5.github.io/rsschool-cv/
